@@ -1,0 +1,25 @@
+
+body{font-family:'OpenSans-Light', san-serif; background:#01A0DB }
+
+*{margin:0;padding:0}
+
+.column, .column h1, .column h2, .social_profile a, .column h3 {transition: all 0.9s ease 0s;-moz-transiition: all 0.9s ease 0s;-webkit-transition: all 0.9s ease 0s;
+-o-transition: all 0.9s ease 0s;}
+
+.column{color:#fff; text-align:center; }
+.column h1{font-size: 60px; line-height:50px; margin-bottom: 50px; margin-top:150px; font-weight:normal; }
+.column h1:hover{font-size: 70px; line-height:60px; }
+.column h2{font-size: 30px; font-weight:normal; line-height:30px; margin-bottom:55px; margin-top: 25px;}
+.column h2:hover{font-size: 50px; line-height:60px; background:#fad91b; }
+.column h2 span{background:#fff; color:#414141; padding:0 17px; }
+.column h3{font-size: 30px; font-weight:normal; line-height:30px; margin-bottom:55px; margin-top: 25px; }
+.column h3:hover{font-size: 40px; line-height:30px; }
+.social_profile{ }
+.social_profile a{color:#fff;text-decoration:none; padding:5px 15px;margin-left:20px; font-size:30px;}
+.social_profile a:hover{font-size:50px;}
+.facebook{background:#567bc0; }
+.facebook:hover{background:#4066ac; }
+.twitter{background:#5dbede; }
+.twitter:hover{background:#1e7693; }
+.gplus{background:#ff4f3b; }
+.gplus:hover{background:#ff2811; }
